@@ -9,6 +9,7 @@ import the dependencies:
     <version>1.0-SNAPSHOT</version>
 </dependency>
 <!-- my spring boot version is 2023.0.0 -->
+<!-- spring version number greater than 3 -->
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-security</artifactId>
