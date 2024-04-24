@@ -44,7 +44,7 @@ spring:
       resource: my-client
       lazy-load-paths: true
       credentials:
-        secret: renWr9b2gZiDLTf6RI9NQia7ZAhmMLS1
+        secret: ${your-client-secret}
       paths:
         - name: test
           type: get
