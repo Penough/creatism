@@ -20,7 +20,7 @@ cafe-logger-spring-boot-starter is based on springboot and logback. It provides 
     <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
-### 配置项说明
+### configuration
 <table>
 <tr>
     <th>configuration</th>
@@ -34,7 +34,7 @@ cafe-logger-spring-boot-starter is based on springboot and logback. It provides 
 </tr>
 <tr>
     <td>feign-uri</td>
-    <td>feign请求uri</td>
+    <td>feign request uri</td>
     <td>**/slider/recall</td>
 </tr>
 <tr>
