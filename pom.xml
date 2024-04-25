@@ -11,6 +11,7 @@
 
   <modules>
       <module>keycloak-enforcer-webflux-starter</module>
+      <module>cafe-logger-spring-boot-starter</module>
   </modules>
 
   <properties>
